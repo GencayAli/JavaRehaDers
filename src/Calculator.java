@@ -23,9 +23,9 @@ public class Calculator {
         // KODUNUZU BURADAN SONRA YAZIN.
         System.out.println("iki sayinin toplami: " + (a+b));
         System.out.println("iki sayinin farki: " + (a-b));
-        System.out.println("iki sayinin carpimi: "+(a*b));
-        System.out.println("iki saynin bölümü: "+ (a/b));
-        System.out.println("iki sayinin modu: "+ (a%b));
+        System.out.println("iki sayinin carpimi: " + (a*b));
+        System.out.println("iki saynin bölümü: " + (a/b));
+        System.out.println("iki sayinin modu: " + (a%b));
 
 
     }
